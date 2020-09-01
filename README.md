@@ -1,6 +1,11 @@
 # Barcode Scanner using React Native Camera
 This is a simple barcode scanner application made using React Native CLI with React Native Camera.
 
+# Preview
+You can watch live working demo of this application on my channel:
+https://youtu.be/5h48zMYFjSw
+Please hit subscribe and press the bell icons for more videos, tutorials and demos in React Native. Thank you
+
 # Installation
 If you want to run this code on your side then follow these steps:
 1. Download or pull this repository using Git
